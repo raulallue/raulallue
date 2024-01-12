@@ -1,6 +1,5 @@
 ## Hola, mi nombre es Raúl Allué 👋
 
----
 ### Técnico superior en administración de sistemas informaticos en red. 
 
 +20 años de experiencia en el sector IT, en el que he desarrollado funciones como:
