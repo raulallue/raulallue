@@ -1,12 +1,12 @@
-### Hola, mi nombre es Raúl Allué 👋
+## Hola, mi nombre es Raúl Allué 👋
 
 ---
-Técnico superior en administración de sistemas informaticos en red.
+### Técnico superior en administración de sistemas informaticos en red. 
 
 +20 años de experiencia en el sector IT, en el que he desarrollado funciones como:
 
 - Instalacion y gestion de sistemas telefónicos y VoIP.
-- Administracion de redes de datos cableadas y wireless.
+- Administracion de redes ip cableadas y wireless.
 - Despliege de red de comunicaciones para emergencias.
 - Gestión de infraestructuras de red y firewalls.
 - Instalacion y mantenimiento de estaciones de radio y tdt.
